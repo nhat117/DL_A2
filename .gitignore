@@ -1,0 +1,9 @@
+__MACOSX/
+.ipynb_checkpoints/
+.virtual_documents/
+=9.3.0
+A2_data.zip
+A2_Data/
+A2.py
+Multimodal_Entailment_CLIP.ipynb
+studies
