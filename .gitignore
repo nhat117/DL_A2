@@ -7,3 +7,12 @@ A2_Data/
 A2.py
 Multimodal_Entailment_CLIP.ipynb
 studies
+**/*.3,
+data/
+**/*.txt
+**/*.tfrecord
+**/*.json
+models/
+logs/
+tunnelin
+generated_qa_with_answer_5.jsonl
